@@ -18,9 +18,7 @@ Infinite Scrolling: Loads more images as the user scrolls down, creating a conti
 
 Technologies Used
 HTML: The backbone of the application, providing the structure of the web pages.
-
 CSS: Used for styling the application, making it visually appealing and responsive.
-
 JavaScript: Powers the dynamic behavior of the application, including fetching images from the Unsplash API and handling user interactions.
 
 Unsplash CDN: Provides access to a vast library of high-quality images through a simple and efficient API.
